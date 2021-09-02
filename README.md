@@ -9,3 +9,24 @@
 - 💬 Ask me about anything you want to know about programming.
 - 📫 How to reach me: E-mail: bara.naser006@gmail.com
 - ⚡ Fun fact: Playing Chess :chess_pawn: && Love Music :musical_note:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yanalshoubaki/baranazal/main/icons/html.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/yanalshoubaki/baranazal/main/icons/css.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/yanalshoubaki/baranazal/main/icons/sass.svg" alt="sass" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/yanalshoubaki/baranazal/main/icons/javascript.svg" alt="javascript" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/yanalshoubaki/baranazal/main/icons/bootstrap-5-1.svg" alt="sass" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/yanalshoubaki/baranazal/main/icons/tailwindcss.svg" alt="sass" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/yanalshoubaki/baranazal/main/icons/reactjs.svg" alt="sass" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/yanalshoubaki/baranazal/main/icons/redux.svg" alt="sass" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/yanalshoubaki/baranazal/main/icons/nodejs.svg" alt="sass" width="40" height="40"/> 
+  <br>
+  <img src="https://raw.githubusercontent.com/yanalshoubaki/baranazal/main/icons/php.svg" alt="php" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/yanalshoubaki/baranazal/main/icons/laravel.svg" alt="sass" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/yanalshoubaki/baranazal/main/icons/mysql.svg" alt="sass" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/yanalshoubaki/baranazal/main/icons/git-icon.svg" alt="sass" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/yanalshoubaki/baranazal/main/icons/heroku-4.svg" alt="sass" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/yanalshoubaki/baranazal/main/icons/adobe%20(2).svg" alt="adobephotoshop" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/yanalshoubaki/baranazal/main/icons/adobe%20(1).svg" alt="adobeillustrator" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/yanalshoubaki/baranazal/main/icons/adobe.svg" alt="adobexd" width="40" height="40"/> 
+</p>
