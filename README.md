@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, it's Bara' Nazal :blue_heart:
 </h1>
-<h3 align="center">Being Proud to Be A Jordanian Web Developer :metal:
+<h3 align="center">Don't Give Up :metal:
 </h3>
 
 - 🔭 I’m currently working on => Creating new projects.
