@@ -35,6 +35,9 @@
 <a href="https://www.facebook.com/baranazal2002/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/baranazal/baranazal/main/icons/facebook.svg" alt="yanalalshoubaki" height="30" width="30" />
 </a>
+  <a href="https://twitter.com/bara_nazal" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/baranazal/baranazal/main/icons/twitter.svg" alt="yanalalshoubaki" height="30" width="30" />
+</a>
 <!-- <a href="https://linkedin.com/in/yanalshoubaki" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/baranazal/baranazal/main/icons/linkedin.svg" alt="yanalshoubaki" height="30" width="30" />
 </a> -->
