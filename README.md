@@ -4,10 +4,10 @@
 </h3>
 
 - 🔭 I’m currently working on => Creating new projects.
-- 🌱 I’m currently learning => PYTHON .
-- 👯 I’m looking to collaborate on Front/Back End Websites Development.
+- 🌱 I’m currently learning => Python & Docker .
+- 👯 I’m looking to collaborate on Front/Back End Websites Development + Python automation scripts
 - 💬 Ask me about anything you want to know about programming.
-- 📫 How to reach me: E-mail: bara.naser006@gmail.com
+- 📫 How to reach me: E-mail: bara.naser002@gmail.com
 - ⚡ Fun fact: Playing Chess :chess_pawn: && Love Music :musical_note:
 <br><br><br>
 <p align="center">
