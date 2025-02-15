@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Bara Nazal :blue_heart:
+<h1 align="center">Hello 👋, I'm Bara Nazal
 </h1>
 
 - 🔭 I’m currently working on => Creating new projects.
