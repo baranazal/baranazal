@@ -20,11 +20,12 @@
  <img src="https://raw.githubusercontent.com/baranazal/baranazal/main/icons/redux.svg" alt="sass" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/baranazal/baranazal/main/icons/nodejs.svg" alt="sass" width="40" height="40"/> 
   <br><br>
-    <img src="https://raw.githubusercontent.com/baranazal/baranazal/main/icons/mysql.svg" alt="sass" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/baranazal/baranazal/main/icons/git-icon.svg" alt="sass" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/baranazal/baranazal/main/icons/mysql.svg" alt="sass" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/baranazal/baranazal/main/icons/adobe.svg" alt="adobexd" width="40" height="40"/> 
+  
 
  <!-- <img src="https://raw.githubusercontent.com/baranazal/baranazal/main/icons/laravel.svg" alt="sass" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/baranazal/baranazal/main/icons/git-icon.svg" alt="sass" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/baranazal/baranazal/main/icons/heroku-4.svg" alt="sass" width="40" height="40"/> -->
  <!-- <img src="https://raw.githubusercontent.com/baranazal/baranazal/main/icons/adobe%20(1).svg" alt="adobeillustrator" width="40" height="40"/> 
 </p> -->
