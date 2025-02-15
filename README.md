@@ -77,7 +77,6 @@ I'm always open to discussing technology, development opportunities, or creative
 
 ### 📫 Contact
 - Email: bara.naser002@gmail.com
-- LinkedIn: [baranazal](https://linkedin.com/in/baranazal)
 
 ### ⚡ Fun Facts
 - Avid chess player ♟️
