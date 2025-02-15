@@ -64,13 +64,13 @@ A passionate developer focused on crafting elegant solutions through code. I spe
 I'm always open to discussing technology, development opportunities, or creative collaborations. Feel free to reach out!
 
 <p align="center">
-  <a href="https://linkedin.com/in/baranazal" target="_blank">
+  <a href="https://linkedin.com/in/baranazal" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/baranazal/baranazal/main/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
   </a>
-  <a href="https://www.facebook.com/baranazal2002/" target="_blank">
+  <a href="https://www.facebook.com/baranazal2002/" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/baranazal/baranazal/main/icons/facebook.svg" alt="Facebook" height="30" width="30" />
   </a>
-  <a href="https://instagram.com/bara_nazal" target="_blank">
+  <a href="https://instagram.com/bara_nazal" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/baranazal/baranazal/main/icons/instagram.svg" alt="Instagram" height="30" width="30" />
   </a>
 </p>
