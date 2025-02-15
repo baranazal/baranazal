@@ -1,7 +1,5 @@
-<h1 align="center">Hello 👋, it's Bara Nazal :blue_heart:
+<h1 align="center">Hello 👋, I'm Bara Nazal :blue_heart:
 </h1>
-<h3 align="center">Don't Give Up :metal:
-</h3>
 
 - 🔭 I’m currently working on => Creating new projects.
 - 🌱 I’m currently learning => Python & Docker .
