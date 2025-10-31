@@ -33,7 +33,6 @@ A passionate developer focused on crafting elegant solutions through code. I spe
 #### Backend Development
 <p align="left">
   <img src="https://raw.githubusercontent.com/baranazal/baranazal/main/icons/nodejs.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/baranazal/baranazal/main/icons/python.svg" alt="python" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/baranazal/baranazal/main/icons/mysql.svg" alt="mysql" width="40" height="40"/> 
 </p>
 
@@ -51,13 +50,12 @@ A passionate developer focused on crafting elegant solutions through code. I spe
 
 ### 🛠️ Skills Overview
 
-- **Frontend**: React.js, Redux, HTML5, CSS3, JavaScript
+- **Frontend**: React.js, NextJS, Redux, HTML5, CSS3, JavaScript
 - **UI Frameworks**: Bootstrap 5, Tailwind CSS
-- **Backend**: Node.js, Python, RESTful APIs
-- **Database**: MySQL
+- **Backend**: Go, RESTful APIs
+- **Database**: Postgres
 - **DevOps**: Git, Docker, Linux
 - **Design**: Adobe Creative Suite
-- **Development Practices**: Agile Methodology, Version Control
 
 ## 🤝 Let's Connect
 
