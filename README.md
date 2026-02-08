@@ -1,17 +1,14 @@
 # Bara Nazal
-### Web Developer & Python Enthusiast
-
+### Software Engineer & Automation Enthusiast
 ---
-
 ## 👨‍💻 About Me
-
-A passionate developer focused on crafting elegant solutions through code. I specialize in full-stack development and automation, constantly exploring new technologies to enhance my skill set.
+A passionate developer focused on crafting elegant solutions through code. I specialize in software engineering, constantly exploring new technologies to enhance my skill set.
 
 ### 🚀 Current Endeavors
-
-- Building innovative projects with modern tech stacks
-- Expanding expertise in Python and Docker ecosystems
-- Seeking collaborative opportunities in web development and automation
+- Building scalable applications with ReactJS/Next.js, Go, and GraphQL
+- Designing CI/CD pipelines and infrastructure as code with Terraform & Kubernetes
+- Expanding expertise in Python automation and cloud-native tooling
+- Seeking collaborative opportunities in web development, backend engineering, and DevOps
 
 ### 💻 Technical Stack
 
@@ -22,6 +19,7 @@ A passionate developer focused on crafting elegant solutions through code. I spe
   <img src="https://raw.githubusercontent.com/baranazal/baranazal/main/icons/javascript.svg" alt="javascript" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/baranazal/baranazal/main/icons/reactjs.svg" alt="react" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/baranazal/baranazal/main/icons/redux.svg" alt="redux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
 </p>
 
 #### UI Frameworks
@@ -33,6 +31,10 @@ A passionate developer focused on crafting elegant solutions through code. I spe
 #### Backend Development
 <p align="left">
   <img src="https://raw.githubusercontent.com/baranazal/baranazal/main/icons/nodejs.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/baranazal/baranazal/main/icons/mysql.svg" alt="mysql" width="40" height="40"/> 
 </p>
 
@@ -41,24 +43,27 @@ A passionate developer focused on crafting elegant solutions through code. I spe
   <img src="https://raw.githubusercontent.com/baranazal/baranazal/main/icons/git-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="argocd" width="40" height="40"/>
 </p>
 
 #### Design Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/baranazal/baranazal/main/icons/adobe.svg" alt="adobe" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/baranazal/baranazal/main/icons/adobe.svg" alt="adobe" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/>
 </p>
 
 ### 🛠️ Skills Overview
-
-- **Frontend**: React.js, NextJS, Redux, HTML5, CSS3, JavaScript
+- **Frontend**: React.js, Next.js, Redux, HTML5, CSS3, JavaScript
 - **UI Frameworks**: Bootstrap 5, Tailwind CSS
-- **Backend**: Go, RESTful APIs
-- **Database**: Postgres
-- **DevOps**: Git, Docker, Linux
-- **Design**: Adobe Creative Suite
+- **Backend**: Go, Python, Node.js, GraphQL, RESTful APIs
+- **Database**: PostgreSQL, MySQL
+- **DevOps**: Git, Docker, Kubernetes, Terraform, Jenkins, ArgoCD, Linux
+- **Design**: Adobe Creative Suite, Photoshop
 
 ## 🤝 Let's Connect
-
 I'm always open to discussing technology, development opportunities, or creative collaborations. Feel free to reach out!
 
 <p align="center">
@@ -75,11 +80,3 @@ I'm always open to discussing technology, development opportunities, or creative
 
 ### 📫 Contact
 - Email: bara.naser002@gmail.com
-
-### ⚡ Fun Facts
-- Avid chess player ♟️
-- Music enthusiast 🎵
-
----
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baranazal&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
